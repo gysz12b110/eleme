@@ -1,6 +1,6 @@
-// 热门小吃
+// 热门 小吃
 export const TAGS = '/static/json/tag.json'
-// 商家信息
+// 商家 信息
 export const SELLER = '/static/json/seller.json'
 // 订单数据
 export const ORDERS = '/static/json/order.json'

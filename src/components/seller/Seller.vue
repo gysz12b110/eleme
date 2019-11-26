@@ -36,6 +36,7 @@ export default {
       return this.$store.getters.seller
     },
     shopcartData () {
+      // 呵呵
       return this.$store.getters.shopcart[this.seller.id] || []
     }
   },
